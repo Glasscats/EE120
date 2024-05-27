@@ -1,2 +1,3 @@
-# EE120
-Signal and System
+# UC Berkeley EE120 Signal and System
+
+## Lab 1 Complete!
